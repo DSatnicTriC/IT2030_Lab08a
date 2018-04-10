@@ -54,9 +54,9 @@ namespace Lab08a_FacebookAuth
             //   consumerKey: "",
             //   consumerSecret: "");
 
-            //app.UseFacebookAuthentication(
-            //   appId: "",
-            //   appSecret: "");
+            app.UseFacebookAuthentication(
+               appId: "1066675763486276",
+               appSecret: "b63f0d4c9530593f264a58374237f1b5");
 
             //app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
             //{
